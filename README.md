@@ -29,4 +29,6 @@ Here are some ideas to get you started:
   <a href="https://academy.corp.teamtopologies.com/certificates/ycrbtjzpcw" target="_blank">
     <img src="./assets/badges/courses/team-topologies-academy.png" alt="Platform as a Product" width="100">
   </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/es-mx/CsarGonzlez-2767/FBFEC269298CF8A5?sharingId=CAF8C9C0A0AB1374" target="_blank">
+    <img src="./assets/badges/certifications/microsoft-certified-fundamentals-badge.svg" alt="Azure Fundamentals" width="100">
 </p>
