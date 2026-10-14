@@ -26,4 +26,7 @@ Here are some ideas to get you started:
   <a href="https://www.credly.com/badges/54ae95fb-52a4-4fc8-88c6-fa59e61d551a/public_url" target="_blank">
     <img src="./assets/badges/certifications/github-foundations.png" alt="GitHub Fundamentals" width="100">
   </a>
+  <a href="https://academy.corp.teamtopologies.com/certificates/ycrbtjzpcw" target="_blank">
+    <img src="./assets/badges/courses/team-topologies-academy.png" alt="Platform as a Product" width="100">
+  </a>
 </p>
